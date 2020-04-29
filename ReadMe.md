@@ -12,18 +12,25 @@ Instructions :
 2 : Open the command prompt
 
 3 : Type the following :
-dotnet new console -o [name of the console app]
+dotnet new console -o [name of the console app].
+
 This will automatically make a simple console application with a file called Program.cs inside.
+
 Then, type :
+
 cd [name of the console app]
+
 code .
+
 The dotnet command you run earlier created a folder with a Program.cs file inside of it.
 Typing code . will open visual studio code in that folder.
 
 4 : Running the code 
+
 Click on the bottom right of the VSCode interface, where there are the warnings and problems count.
 
 This will open a built-in terminal, where you will type dotnet commands to run your code ; in this case, it is :
+
 dotnet run
 
 The program will output "Hello World!" in the same console window.

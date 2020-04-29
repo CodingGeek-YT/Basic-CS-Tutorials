@@ -23,10 +23,13 @@ After a little while the "bin" folder should appear
 A little warning should also appear on the bottom right,
 Click 'Yes'.
 
-It will then add a '.vscode' folder
-To run your code now, press Ctrl+Shift+ù OR click on the bottom left thing with the warnings and problems.
+It will then add a '.vscode' folder.
+
+To run your code, press Ctrl+Shift+ù OR click on the bottom left thing with the warnings and problems.
 It will open a built-in terminal ;
+
 Inside of it, type 
+
 dotnet run
 
 And then, press Enter and the program will send in the same terminal a message saying "Hello World".

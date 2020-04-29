@@ -6,7 +6,7 @@ Discord Server : https://discord.gg/4GP6rXf
 
 Instructions : 
 
-1 : Have VSCode and .NET **SDK** installed (links below)
+1 : Have VSCode and .NET **SDK** installed (links below) \n
 2 : Open the command prompt
 3 : Type the following :
 dotnet new console -o [name of the console app]

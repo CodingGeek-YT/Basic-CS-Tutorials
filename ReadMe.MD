@@ -6,11 +6,14 @@ Discord Server : https://discord.gg/4GP6rXf
 
 Instructions : 
 
-1 : Have VSCode and .NET **SDK** installed (links below) \n
+1 : Have VSCode and .NET **SDK** installed (links below) 
+
 2 : Open the command prompt
+
 3 : Type the following :
 dotnet new console -o [name of the console app]
 This will make a simple console application automatically with a file called Program.cs inside.
+
 4 : Run 
 cd [name of the console app]
 code .

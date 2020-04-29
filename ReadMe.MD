@@ -22,6 +22,7 @@ Typing code . will open visual studio code in that folder.
 
 4 : Running the code 
 Click on the bottom right of the VSCode interface, where there are the warnings and problems count.
+
 This will open a built-in terminal, where you will type dotnet commands to run your code ; in this case, it is :
 dotnet run
 

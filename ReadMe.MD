@@ -1,7 +1,8 @@
 # Thanks for using these tutorials !
 
-* To navigate - please change the branch to which tutorial you want
-To create the base console application, go to this discord server or do the following :
+* To navigate - please change the branch to which tutorial you want.
+* To create the base console application, go to this discord server or follow the instructions.
+
 Discord Server : https://discord.gg/4GP6rXf
 
 Instructions : 
